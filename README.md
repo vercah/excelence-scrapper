@@ -1,1 +1,2 @@
-Vytáhne jména lidí a jejich školy podle zadaných názvů soutěží. Není tam pořešená duplikace lidí, to jsem dělala až v Excelu.
+Excellence was a Czech governmental project unifying many competitions and olympiads in the Czech Republic. 
+This program uses its database and downloads names of students and their schools given the name of the desired competition.
